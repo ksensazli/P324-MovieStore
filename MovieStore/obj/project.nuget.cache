@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a9HsWH+oApA5kd1a8XAVYikNbeMAdSTe6XLOA9MyRfRwBYlpiWVyyDQ/iEi4IarcQdKfoUQU264CGBA8atPmhw==",
+  "dgSpecHash": "wNxpP7aphDN+7pVZZ9RhQ4b6So+4apsFaYQ+s+tU2PwnQh0/RfNFYwfExduWjxcSZBzyQAFpIqSR/cabaO3a7A==",
   "success": true,
   "projectFilePath": "/Users/ksensazli/RiderProjects/MovieStore/MovieStore/MovieStore.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,7 @@
     "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.9.0.0-preview.6.24327.4.nupkg.sha512",
     "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.abstractions.9.0.0-preview.6.24327.4.nupkg.sha512",
     "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.analyzers.9.0.0-preview.6.24327.4.nupkg.sha512",
-    "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.inmemory.9.0.0-preview.6.24327.4.nupkg.sha512",
+    "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.7/microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512",
     "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.relational/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.relational.9.0.0-preview.6.24327.4.nupkg.sha512",
     "/Users/ksensazli/.nuget/packages/microsoft.entityframeworkcore.sqlserver/9.0.0-preview.6.24327.4/microsoft.entityframeworkcore.sqlserver.9.0.0-preview.6.24327.4.nupkg.sha512",
     "/Users/ksensazli/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

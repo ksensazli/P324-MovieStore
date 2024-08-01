@@ -299,10 +299,10 @@
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.0-preview.6.24327.4": {
         "type": "package"
       },
-      "Microsoft.EntityFrameworkCore.InMemory/9.0.0-preview.6.24327.4": {
+      "Microsoft.EntityFrameworkCore.InMemory/8.0.7": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "9.0.0-preview.6.24327.4"
+          "Microsoft.EntityFrameworkCore": "8.0.7"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
@@ -1315,10 +1315,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.InMemory/9.0.0-preview.6.24327.4": {
-      "sha512": "sX++NW2uckU0+wdQwUU43TWhHHvZKvg7DRI1VghwwFBM5Pl/1gTqgDyMJRzb0fb21CFfiJvdPaRcBgrpIP1tZQ==",
+    "Microsoft.EntityFrameworkCore.InMemory/8.0.7": {
+      "sha512": "LMboWsjFFD+i24pvKwxEz24D0NUPlE7+M6gHYcSLioShxKhsPs/OXcB2E6kWTXHK/HIOM88e0rVNyZylCI81FA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.inmemory/9.0.0-preview.6.24327.4",
+      "path": "microsoft.entityframeworkcore.inmemory/8.0.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1326,7 +1326,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.InMemory.xml",
-        "microsoft.entityframeworkcore.inmemory.9.0.0-preview.6.24327.4.nupkg.sha512",
+        "microsoft.entityframeworkcore.inmemory.8.0.7.nupkg.sha512",
         "microsoft.entityframeworkcore.inmemory.nuspec"
       ]
     },
@@ -2622,7 +2622,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.7",
       "Microsoft.AspNetCore.OpenApi >= 8.0.6",
       "Microsoft.EntityFrameworkCore >= 9.0.0-preview.6.24327.4",
-      "Microsoft.EntityFrameworkCore.InMemory >= 9.0.0-preview.6.24327.4",
+      "Microsoft.EntityFrameworkCore.InMemory >= 8.0.7",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0-preview.6.24327.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -2694,7 +2694,7 @@
           },
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
-            "version": "[9.0.0-preview.6.24327.4, )"
+            "version": "[8.0.7, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
